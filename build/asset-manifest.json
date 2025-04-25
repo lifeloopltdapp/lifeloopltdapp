@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lifeloopltdapp/static/css/main.0900fbb0.css",
+    "main.js": "/lifeloopltdapp/static/js/main.3b9f7ca7.js",
+    "index.html": "/lifeloopltdapp/index.html",
+    "main.0900fbb0.css.map": "/lifeloopltdapp/static/css/main.0900fbb0.css.map",
+    "main.3b9f7ca7.js.map": "/lifeloopltdapp/static/js/main.3b9f7ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0900fbb0.css",
+    "static/js/main.3b9f7ca7.js"
+  ]
+}
